@@ -3,6 +3,10 @@ This is GUI Installer for anyone who doesn't like to enter a bunch of commands t
 
 This is written, licensed and developed by Anant Narayan
 
+# Discontinued
+This project's development has been stopped due to numerous reasons. 
+
+
 ## Installation
  Installation is very simple. Just follow the steps below.
  
